@@ -1,0 +1,12 @@
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.deps.json
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\refint\Core.Persistence.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
+D:\repos\CoreTemplate\src\corePackages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll

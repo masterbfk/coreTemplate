@@ -1,0 +1,15 @@
+D:\repos\CoreTemplate\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.deps.json
+D:\repos\CoreTemplate\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.pdb
+D:\repos\CoreTemplate\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Persistence.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Persistence.pdb
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.AssemblyReference.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.AssemblyInfoInputs.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.AssemblyInfo.cs
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.CoreCompileInputs.cache
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.CopyComplete
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\refint\Core.Security.dll
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.pdb
+D:\repos\CoreTemplate\src\corePackages\Core.Security\obj\Debug\net7.0\ref\Core.Security.dll

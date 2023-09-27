@@ -1,0 +1,11 @@
+D:\repos\CoreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\repos\CoreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.dll
+D:\repos\CoreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.pdb
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.dll
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.pdb
+D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\ref\Domain.dll

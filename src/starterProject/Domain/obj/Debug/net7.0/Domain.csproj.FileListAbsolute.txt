@@ -9,3 +9,15 @@ D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.dll
 D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.pdb
 D:\repos\CoreTemplate\src\starterProject\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Domain\obj\Debug\net7.0\ref\Domain.dll

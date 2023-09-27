@@ -10,3 +10,15 @@ D:\repos\CoreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailin
 D:\repos\CoreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\refint\Core.Mailing.dll
 D:\repos\CoreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.pdb
 D:\repos\CoreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\ref\Core.Mailing.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.deps.json
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.pdb
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.csproj.AssemblyReference.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.AssemblyInfoInputs.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.AssemblyInfo.cs
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\refint\Core.Mailing.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.pdb
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\corePackages\Core.Mailing\obj\Debug\net7.0\ref\Core.Mailing.dll

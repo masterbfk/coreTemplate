@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "S9eJxzH764pjFgLPwS5dJwU27+CsIXkx7buNRKH2qkaadU9TEX4/kD+kzvcKn6pYiepVjt30IjXiINidpCryFQ==",
+  "dgSpecHash": "/3249V2gLqqiQqGMnRDJkNSYsl/t2q0cTuV0d2WXEeX3rqF1e/3QU10/56shnsc4Z2F1lYZ3gKgTSTlmKP9UlA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\nest.jsonnetserializer\\7.17.5\\nest.jsonnetserializer.7.17.5.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\erdem.emre\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\nest.jsonnetserializer\\7.17.5\\nest.jsonnetserializer.7.17.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

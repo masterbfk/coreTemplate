@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\CoreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj"
               },
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -100,21 +106,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.CrossCuttingConcerns\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,6 +132,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -209,21 +221,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
         "projectName": "Core.ElasticSearch",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -231,6 +247,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -286,21 +304,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "projectName": "Core.Mailing",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -308,6 +330,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -359,21 +383,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -381,6 +409,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -424,21 +454,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Security\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -446,14 +480,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -505,21 +541,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\Application.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -527,20 +567,22 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj"
               },
-              "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj"
               }
             }
           }
@@ -588,21 +630,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\CoreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\CoreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\erdem.emre\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erdem.emre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayramfatih.kubasik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -610,14 +656,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\bayramfatih.kubasik\\Documents\\localNugetRepo": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\Application.csproj": {
-                "projectPath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Application\\Application.csproj"
+              "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Application\\Application.csproj"
               }
             }
           }
@@ -653,7 +701,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

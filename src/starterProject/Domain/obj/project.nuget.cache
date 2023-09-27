@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HmFkyyt0LpHh14gcseWPXBeVtwSUd6LDf6+0K4TC8+YNYDRXidP8DqM0z02lpWAE9qjXD4Yxdut2xhkTBDwTNw==",
+  "dgSpecHash": "lEpwP8y+aJFmCNTGhn3bs4uw+JQPzMPts3TeTaB6ykWAIEYJG9URyx2JKVMArFkibOJAQwENr8lc5vYYlZDgpg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\CoreTemplate\\src\\starterProject\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

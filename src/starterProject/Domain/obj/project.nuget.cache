@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "lEpwP8y+aJFmCNTGhn3bs4uw+JQPzMPts3TeTaB6ykWAIEYJG9URyx2JKVMArFkibOJAQwENr8lc5vYYlZDgpg==",
+  "dgSpecHash": "vc8zQop3OQ51SvsZ1svJLiymuxUdW6UGW6368DA57/2cAVhnXEKNNBJW5MxcrnIUeWNyJG3koikatnKkpz2jEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Documents\\GitHub\\coreTemplate\\src\\starterProject\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\system.linq.dynamic.core\\1.3.2\\system.linq.dynamic.core.1.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

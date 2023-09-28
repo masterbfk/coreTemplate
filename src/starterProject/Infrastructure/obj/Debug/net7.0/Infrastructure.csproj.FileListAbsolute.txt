@@ -52,3 +52,5 @@ C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\In
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Infrastructure\bin\Debug\net7.0\Domain.pdb

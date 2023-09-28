@@ -48,3 +48,5 @@ C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Ap
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Application\obj\Debug\net7.0\refint\Application.dll
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Application\obj\Debug\net7.0\Application.pdb
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Application\bin\Debug\net7.0\Domain.pdb

@@ -1709,6 +1709,8 @@
           "Core.Application": "1.0.0",
           "Core.ElasticSearch": "1.0.0",
           "Core.Mailing": "1.0.0",
+          "Core.Persistence": "1.0.0",
+          "Domain": "1.0.0",
           "FluentValidation": "11.7.1",
           "MediatR": "12.1.1"
         },
@@ -1807,6 +1809,14 @@
         },
         "runtime": {
           "Core.WebAPI.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
@@ -3155,6 +3165,11 @@
       "sha512": ""
     },
     "Core.WebAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -52,3 +52,5 @@ C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Pe
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Persistence\obj\Debug\net7.0\Persistence.pdb
 C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\bayramfatih.kubasik\Documents\GitHub\coreTemplate\src\starterProject\Persistence\bin\Debug\net7.0\Domain.pdb

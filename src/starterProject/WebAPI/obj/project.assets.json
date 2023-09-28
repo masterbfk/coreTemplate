@@ -3120,6 +3120,8 @@
           "Core.Application": "1.0.0",
           "Core.ElasticSearch": "1.0.0",
           "Core.Mailing": "1.0.0",
+          "Core.Persistence": "1.0.0",
+          "Domain": "1.0.0",
           "FluentValidation": "11.7.1",
           "MediatR": "12.1.1"
         },
@@ -3256,6 +3258,19 @@
         },
         "runtime": {
           "bin/placeholder/Core.WebAPI.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
@@ -8788,6 +8803,11 @@
       "type": "project",
       "path": "../../corePackages/Core.WebAPI/Core.WebAPI.csproj",
       "msbuildProject": "../../corePackages/Core.WebAPI/Core.WebAPI.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     },
     "Infrastructure/1.0.0": {
       "type": "project",
